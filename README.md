@@ -16,8 +16,12 @@
   <a href="https://www.behance.net/staturnatomteam" target="_blank">
     <img src="https://img.shields.io/badge/Behance-2D0B5A?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
+   <!-- Dribbble -->
+  <a href="https://dribbble.com/saturn-atom" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-2D0B5A?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
   <!-- Instagram -->
-  <a href="[YOUR_INSTAGRAM_URL]" target="_blank">
+  <a href="https://www.instagram.com/saturnatom_team/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-2D0B5A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Email / Propose a Project -->
