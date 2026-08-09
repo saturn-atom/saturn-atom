@@ -9,11 +9,11 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+  <a href="www.linkedin.com/in/saturnatomteam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Behance -->
-  <a href="[YOUR_BEHANCE_URL]" target="_blank">
+  <a href="https://www.behance.net/staturnatomteam" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <!-- Instagram -->
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Email / Propose a Project -->
-  <a href="mailto:[YOUR_EMAIL@DOMAIN.COM]">
+  <a href="mailto:the.s.atom@bk.ru">
     <img src="https://img.shields.io/badge/Propose_a_Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -76,6 +76,6 @@ Our engineering culture is built on strict standards. We advocate for absolute t
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0&icon_color=7A7A7A" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saturn-atom&show_icons=true&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0&icon_color=7A7A7A" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturn-atom&layout=compact&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0" alt="Top Languages" />
 </p>
