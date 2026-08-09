@@ -74,7 +74,9 @@ Our engineering culture is built on strict standards. We advocate for absolute t
 ---
 
 ## 📈 GitHub Metrics
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saturn-atom&theme=radium&hide_border=true&background=0D0D0D&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=A0A0A0&currStreakLabel=A0A0A0&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saturn-atom&show_icons=true&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0&icon_color=7A7A7A" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturn-atom&layout=compact&theme=radium&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0" alt="Top Languages" />
