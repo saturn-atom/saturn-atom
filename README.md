@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0D0D0D/FFFFFF?text=Saturn+Atom+%7C+Digital+Production" alt="Saturn Atom Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/dd88dd5c-2213-4468-b200-494b34fb23bb" alt="Saturn Atom Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, we are Saturn Atom 👋</h1>
