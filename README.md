@@ -66,6 +66,7 @@ Our engineering culture is built on strict standards. We advocate for absolute t
 ### Design & Prototyping
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-34C5FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
   <img src="https://img.shields.io/badge/Apple_HIG-000000?style=for-the-badge&logo=apple&logoColor=white" alt="HIG" />
   <img src="https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="M3" />
 </p>
